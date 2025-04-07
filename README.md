@@ -1,4 +1,4 @@
-![logo]([https://github.com/the8bitbyte/discon-spy/blob/main/resources/one.png?raw=true)
+![logo](https://raw.githubusercontent.com/the8bitbyte/discon-spy/refs/heads/main/resources/one.png)
 
 # discon-spy
 A tool written in shell that uses repeated nmap scans to detect disconnections from networks
